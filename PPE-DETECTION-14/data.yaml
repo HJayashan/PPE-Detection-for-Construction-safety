@@ -1,0 +1,17 @@
+names:
+- Gloves
+- Hard_hat
+- Mask
+- Person
+- Safety_boots
+- Vest
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: ppe-detection-ozhfb
+  url: https://universe.roboflow.com/sdp-lfigk/ppe-detection-ozhfb/dataset/14
+  version: 14
+  workspace: sdp-lfigk
+test: ../test/images
+train: ../train/images
+val: ../valid/images
